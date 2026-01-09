@@ -5,6 +5,6 @@ const adminSchema = mongoose.Schema({
   email: String,
   password: String,
   role: String,
-});
+});x
 
 module.exports = mongoose("admin", adminSchema);
