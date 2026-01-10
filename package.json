@@ -9,9 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "ejs": "^3.1.10",
+    "env": "^0.0.2",
     "express": "^5.2.1",
+    "express-session": "^1.18.2",
     "joi": "^18.0.2",
-    "mongoose": "^9.1.1"
+    "mongoose": "^9.1.1",
+    "passport": "^0.7.0",
+    "passport-google-oauth2": "^0.2.0",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
